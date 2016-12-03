@@ -1,2 +1,2 @@
-# stem
-Actualización para el éxito.  Homologación automática. Contenidos y plataforma personalizada. Acompañamiento pedagógico permanente. Beca financiación. Aprendizaje móvil autónomo. Inserción laboral. Estadías de servicio comunitario en el extranjero. Y más.
+# ghpstem
+Patrocinio y tutela en educación superior transnacional. Títulos homologados. Contenidos y plataforma personalizada. Acompañamiento pedagógico y coaching permanente. Inserción laboral. Y más.
